@@ -1,5 +1,5 @@
 const cuadro = document.createElement('div');
-cuadro.classList.add('cuadro');
+cuadro.classList.add('cuadro_2');
 
 const titulo = document.createElement('div');
 titulo.textContent = 'footer ';
