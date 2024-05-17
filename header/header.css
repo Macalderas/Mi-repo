@@ -10,10 +10,11 @@ body {
   text-align: center; 
   width: 1340px; 
   border-radius: 100px; 
+  height: 100px;
 }
 
 .base h1 {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 nav ul {
