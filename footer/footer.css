@@ -1,1 +1,48 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 1340px; 
+  border-radius: 100px; 
+  height: 100px;
+  background-color: #1b8488db;
+ color: #fff;
+  padding: 20px 0;
+}
 
+.abajo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.abajo_logo img {
+  width: 100px;
+  height: 70px;
+}
+
+.redes-sociales {
+  display: flex;
+}
+
+.icono-red-social {
+  color: #000; 
+  font-size: 24px; 
+  margin-right: 40px; 
+}
+
+.abajo_desarrollador {
+  margin-bottom: 20px;
+  font-size: 10px;
+}
+
+
+
+
+
+
+
+
+.abajo_stacks {
+  font-size: 15px;
+  text-align: center;
+}
