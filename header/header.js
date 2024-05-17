@@ -1,5 +1,4 @@
 let mcalderas=document.querySelector(".base");
-
 mcalderas.innerHTML=`
 <h1> Componetes de Computador </h1>
     <nav>
