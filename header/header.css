@@ -10,7 +10,7 @@ body {
   text-align: center; 
   width: 1340px; 
   border-radius: 100px; 
-  height: 100px;
+  height: 120px;
 }
 
 .base h1 {
@@ -31,5 +31,15 @@ nav ul li {
 nav ul li a {
   color: #fff;
   text-decoration: none;
+}
+
+.boton-repositorio {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 16px;
 }
 

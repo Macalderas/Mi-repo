@@ -30,11 +30,19 @@ footer {
   margin-right: 40px; 
 }
 
-
 .abajo_desarrollador {
-  text-align: center;
+  margin-bottom: 20px;
+  font-size: 10px;
 }
 
+
+
+
+
+
+
+
 .abajo_stacks {
+  font-size: 15px;
   text-align: center;
 }
