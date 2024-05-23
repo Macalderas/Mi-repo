@@ -1,0 +1,13 @@
+@media (min-width: 1024px) {
+    .container {
+        width: 60%;
+    }
+
+    header, footer {
+        padding: 2em 0;
+    }
+
+    main {
+        padding: 3em 0;
+    }
+}
